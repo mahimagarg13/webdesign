@@ -157,7 +157,7 @@
 .button4{
  float: left;
   border: none;
-   background-color:rgb(211, 77, 99);
+   background-color:rgb(159, 202, 238);
   font-size: 17px;
   font-family:Arial;
  border-radius: 6px;
@@ -270,7 +270,7 @@ margin-bottom: 50px;
   font-size: 17px;
   font-family:Arial;
   /* margin-left: 15px; */
-  margin-right: 12px;
+  margin-right: 10px;
   padding-bottom: 10;
   
 }
